@@ -1,2 +1,3 @@
 # VoltGuard_AI
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a23169aa-f4cb-4bff-a26e-2630992f38b8" />
+<img width="1919" height="831" alt="image" src="https://github.com/user-attachments/assets/5287220b-471d-4c09-ac8d-826c4a181712" />
+
